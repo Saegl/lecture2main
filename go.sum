@@ -2,3 +2,5 @@ github.com/Saegl/lecture2lib v0.0.0-20211024153117-26301de1a5bd h1:5HhT9SsZp/O7g
 github.com/Saegl/lecture2lib v0.0.0-20211024153117-26301de1a5bd/go.mod h1:+Cq6OpK+8fsWiyeBHw8fpOzrgS50UNyxIfibFlh3rQc=
 github.com/Saegl/lecture2lib v1.0.0 h1:Vqn00jTB1yq0+pO/sgoCd24lgzTmz1JD26Y0MmDZ2RA=
 github.com/Saegl/lecture2lib v1.0.0/go.mod h1:+Cq6OpK+8fsWiyeBHw8fpOzrgS50UNyxIfibFlh3rQc=
+github.com/Saegl/lecture2lib v1.0.1 h1:WtWxgH+aywsFSxT7LYJmADi/FrwdgrB0Q5goBBlpdvc=
+github.com/Saegl/lecture2lib v1.0.1/go.mod h1:+Cq6OpK+8fsWiyeBHw8fpOzrgS50UNyxIfibFlh3rQc=
