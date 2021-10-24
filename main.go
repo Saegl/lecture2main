@@ -15,4 +15,5 @@ func main() {
 	} else {
 		fmt.Println(r1, r2)
 	}
+	fmt.Println(lecture2lib.GenerateUUID())
 }

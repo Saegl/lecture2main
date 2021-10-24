@@ -4,3 +4,7 @@ github.com/Saegl/lecture2lib v1.0.0 h1:Vqn00jTB1yq0+pO/sgoCd24lgzTmz1JD26Y0MmDZ2
 github.com/Saegl/lecture2lib v1.0.0/go.mod h1:+Cq6OpK+8fsWiyeBHw8fpOzrgS50UNyxIfibFlh3rQc=
 github.com/Saegl/lecture2lib v1.0.1 h1:WtWxgH+aywsFSxT7LYJmADi/FrwdgrB0Q5goBBlpdvc=
 github.com/Saegl/lecture2lib v1.0.1/go.mod h1:+Cq6OpK+8fsWiyeBHw8fpOzrgS50UNyxIfibFlh3rQc=
+github.com/Saegl/lecture2lib v1.0.2 h1:xoEnTSWHn1+DCWhgf4DVMeD5VPKrU1MEdAh8ASDizis=
+github.com/Saegl/lecture2lib v1.0.2/go.mod h1:AuzB8nZNa11Z3JFiUxIt2vz1vY7usb57NX7fqSAIzzA=
+github.com/aidarkhanov/nanoid/v2 v2.0.5 h1:HLx5RyDuvOZ6YxlhYTxSU8Il+q7xVKmXM62MfSxziN0=
+github.com/aidarkhanov/nanoid/v2 v2.0.5/go.mod h1:YF/U48D1yA3AoGGUdRrCV95J/KJBShvR9TyLqQwdtlI=
